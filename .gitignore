@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.log
+*.iml
+/.classpath
+/.project
+/.idea/
+/.vscode/
+.DS_Store
+*.swp
+*.tmp
+/build/
+/test-output/
+.gradle/
+/.mvn/
+*~
